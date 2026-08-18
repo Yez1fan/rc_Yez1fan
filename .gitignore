@@ -1,0 +1,8 @@
+# Compiled binary
+/notifier
+/cmd/notifier/notifier
+
+# SQLite runtime files (WAL/SHM sidecars included)
+*.db
+*.db-wal
+*.db-shm
